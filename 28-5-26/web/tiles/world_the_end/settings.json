@@ -1,0 +1,1 @@
+{"name":"world_the_end","tileUpdateInterval":10,"spawn":{"x":-48,"z":64},"center":{"x":-1,"z":-1},"zoom":{"default":0,"maxOut":4,"maxIn":4},"ui":{"link":"bottomright","coords":"bottomcenter","blockinfo":"bottomleft","attribution":true}}
